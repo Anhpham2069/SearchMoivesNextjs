@@ -15,7 +15,7 @@ export default function SearchMovie() {
     <>
       <Row>
         <Col span={12} offset={6}>
-          <h1 style={{ textAlign: 'center' }}> Tim kiem phim</h1>
+          <h1 style={{ textAlign: 'center' }}> phim cua toi</h1>
         </Col>
       </Row>
       <Row>
